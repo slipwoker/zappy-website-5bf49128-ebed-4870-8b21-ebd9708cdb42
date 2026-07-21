@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T16:21:17.729Z",
+  "generated_at": "2026-07-21T17:09:10.135Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "7d81d841-9fa3-4a57-a7ec-ee35a6cf01fc",
+      "slug": "chbylt-aytsvb-bsysyt-ycg5o1",
+      "name": "חבילת עיצוב בסיסית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חבילת עיצוב שהלקוח מזמין ברמה הבסיסית ביותר, בהתאמה אישית.",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 90,
+      "sale_price": 50,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/image-product-image-1784653597557-t18fwk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chbylt-aytsvb-bsysyt-ycg5o1",
+      "categories": [],
+      "updated_at": "2026-07-21T17:06:50.061Z"
+    }
+  ]
 }

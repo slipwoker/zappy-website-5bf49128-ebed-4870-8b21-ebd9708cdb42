@@ -60,7 +60,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### חבילת עיצוב בסיסית
+https://example.com/product/chbylt-aytsvb-bsysyt-ycg5o1
+- Price: 50.00 ILS (sale, was 90.00 ILS)
+- Availability: In stock
+- Description: חבילת עיצוב שהלקוח מזמין ברמה הבסיסית ביותר, בהתאמה אישית.
+- Image: https://example.com/assets/image-product-image-1784653597557-t18fwk.webp
 
 ---
 

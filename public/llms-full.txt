@@ -4442,3 +4442,12 @@ Description: תודה שפנית אלינו. ההודעה שלך התקבלה ב
 
 ---
 
+## Product Catalog
+
+### חבילת עיצוב בסיסית
+URL: https://example.com/product/chbylt-aytsvb-bsysyt-ycg5o1
+Price: 50.00 ILS (sale, was 90.00 ILS)
+Availability: In stock
+
+---
+

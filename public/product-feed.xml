@@ -4,6 +4,19 @@
     <title>סטודיו מח&apos;&apos;צ</title>
     <link>https://example.com</link>
     <description>Product feed for סטודיו מח&apos;&apos;צ</description>
-    <lastBuildDate>Tue, 21 Jul 2026 16:21:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 17:09:10 GMT</lastBuildDate>
+    <item>
+      <g:id>7d81d841-9fa3-4a57-a7ec-ee35a6cf01fc</g:id>
+      <g:title>חבילת עיצוב בסיסית</g:title>
+      <g:description>חבילת עיצוב שהלקוח מזמין ברמה הבסיסית ביותר, בהתאמה אישית.</g:description>
+      <g:link>https://example.com/product/chbylt-aytsvb-bsysyt-ycg5o1</g:link>
+      <g:image_link>https://example.com/assets/image-product-image-1784653597557-t18fwk.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>90.00 ILS</g:price>
+      <g:sale_price>50.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>סטודיו מח&apos;&apos;צ</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
