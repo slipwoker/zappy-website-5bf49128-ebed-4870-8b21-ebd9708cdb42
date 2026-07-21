@@ -4444,6 +4444,20 @@ Description: תודה שפנית אלינו. ההודעה שלך התקבלה ב
 
 ## Product Catalog
 
+### חבילת עיצוב *פרימיום*
+URL: https://example.com/product/chbylt-aytsvb-prymyvm-0buvzc
+Price: 149.99 ILS (sale, was 200.00 ILS)
+Availability: In stock
+
+---
+
+### חבילת עיצוב ברמה גבוהה
+URL: https://example.com/product/chbylt-aytsvb-brmh-gbvhh-j6fje4
+Price: 120.00 ILS (sale, was 150.00 ILS)
+Availability: In stock
+
+---
+
 ### חבילת עיצוב בסיסית
 URL: https://example.com/product/chbylt-aytsvb-bsysyt-ycg5o1
 Price: 50.00 ILS (sale, was 90.00 ILS)

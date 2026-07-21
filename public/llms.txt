@@ -60,7 +60,21 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 1**
+**Total active products: 3**
+
+### חבילת עיצוב *פרימיום*
+https://example.com/product/chbylt-aytsvb-prymyvm-0buvzc
+- Price: 149.99 ILS (sale, was 200.00 ILS)
+- Availability: In stock
+- Description: חבילת עיצוב ברמה הגבוהה ביותר, עם כל הפלוסים והשדרוגים- במחיר אקטרקטיבי לכל צרכן
+- Image: https://example.com/assets/image-product-image-1784654978930-50g67u.webp
+
+### חבילת עיצוב ברמה גבוהה
+https://example.com/product/chbylt-aytsvb-brmh-gbvhh-j6fje4
+- Price: 120.00 ILS (sale, was 150.00 ILS)
+- Availability: In stock
+- Description: חבילת עיצוב ברמה גבוהה, יצירה עם AI ועוד כלים, הכל לפי בקשת הצרכן- ובאיכות הכי טובה שיש
+- Image: https://example.com/assets/image-product-image-1784654807365-u5tvht.webp
 
 ### חבילת עיצוב בסיסית
 https://example.com/product/chbylt-aytsvb-bsysyt-ycg5o1

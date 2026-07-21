@@ -1,10 +1,54 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T17:09:10.135Z",
+  "generated_at": "2026-07-21T17:34:19.160Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 1,
+  "count": 3,
   "products": [
+    {
+      "id": "c5c68336-8947-4b43-a040-3bc458ab8684",
+      "slug": "chbylt-aytsvb-prymyvm-0buvzc",
+      "name": "חבילת עיצוב *פרימיום*",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חבילת עיצוב ברמה הגבוהה ביותר, עם כל הפלוסים והשדרוגים- במחיר אקטרקטיבי לכל צרכן",
+      "sku": null,
+      "brand": null,
+      "price": 149.99,
+      "base_price": 200,
+      "sale_price": 149.99,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/image-product-image-1784654978930-50g67u.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chbylt-aytsvb-prymyvm-0buvzc",
+      "categories": [],
+      "updated_at": "2026-07-21T17:30:05.243Z"
+    },
+    {
+      "id": "b2a9c022-b00f-44d6-b781-7ddbb97653c3",
+      "slug": "chbylt-aytsvb-brmh-gbvhh-j6fje4",
+      "name": "חבילת עיצוב ברמה גבוהה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חבילת עיצוב ברמה גבוהה, יצירה עם AI ועוד כלים, הכל לפי בקשת הצרכן- ובאיכות הכי טובה שיש",
+      "sku": null,
+      "brand": null,
+      "price": 120,
+      "base_price": 150,
+      "sale_price": 120,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/image-product-image-1784654807365-u5tvht.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chbylt-aytsvb-brmh-gbvhh-j6fje4",
+      "categories": [],
+      "updated_at": "2026-07-21T17:27:04.769Z"
+    },
     {
       "id": "7d81d841-9fa3-4a57-a7ec-ee35a6cf01fc",
       "slug": "chbylt-aytsvb-bsysyt-ycg5o1",

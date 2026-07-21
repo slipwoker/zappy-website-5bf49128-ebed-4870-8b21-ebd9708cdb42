@@ -4,7 +4,33 @@
     <title>סטודיו מח&apos;&apos;צ</title>
     <link>https://example.com</link>
     <description>Product feed for סטודיו מח&apos;&apos;צ</description>
-    <lastBuildDate>Tue, 21 Jul 2026 17:09:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 17:34:19 GMT</lastBuildDate>
+    <item>
+      <g:id>c5c68336-8947-4b43-a040-3bc458ab8684</g:id>
+      <g:title>חבילת עיצוב *פרימיום*</g:title>
+      <g:description>חבילת עיצוב ברמה הגבוהה ביותר, עם כל הפלוסים והשדרוגים- במחיר אקטרקטיבי לכל צרכן</g:description>
+      <g:link>https://example.com/product/chbylt-aytsvb-prymyvm-0buvzc</g:link>
+      <g:image_link>https://example.com/assets/image-product-image-1784654978930-50g67u.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>200.00 ILS</g:price>
+      <g:sale_price>149.99 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>סטודיו מח&apos;&apos;צ</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>b2a9c022-b00f-44d6-b781-7ddbb97653c3</g:id>
+      <g:title>חבילת עיצוב ברמה גבוהה</g:title>
+      <g:description>חבילת עיצוב ברמה גבוהה, יצירה עם AI ועוד כלים, הכל לפי בקשת הצרכן- ובאיכות הכי טובה שיש</g:description>
+      <g:link>https://example.com/product/chbylt-aytsvb-brmh-gbvhh-j6fje4</g:link>
+      <g:image_link>https://example.com/assets/image-product-image-1784654807365-u5tvht.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>150.00 ILS</g:price>
+      <g:sale_price>120.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>סטודיו מח&apos;&apos;צ</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
     <item>
       <g:id>7d81d841-9fa3-4a57-a7ec-ee35a6cf01fc</g:id>
       <g:title>חבילת עיצוב בסיסית</g:title>
