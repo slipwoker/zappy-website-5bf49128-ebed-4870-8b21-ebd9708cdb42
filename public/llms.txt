@@ -7,53 +7,53 @@
 ## Pages
 
 ### בית
-https://-5bf49128.zappy5.app
+https://example.com
 סטודיו מח&#39;&#39;צ מביא את החזון המוזיקלי שלכם לחיים עם מיקס, מאסטרינג והקלטה מקצועיים. שלבו סאונד ועיצוב גרפי בחוויה רב-תחומית ייחודית. התחילו ליצור להיט עוד היום!
 
 ### שירותים
-https://-5bf49128.zappy5.app/services
+https://example.com/services
 מחפשים תוכנה חינמית כמו FL סטודיו? קבלו אצלנו שירותי אולפן אמיתיים: מיקס, הקלטה ועריכה מוזיקלית לצד עיצוב ויזואלי. כל מה שצריך כדי להפיק כמו מקצוענים.
 
 ### תיק עבודות
-https://-5bf49128.zappy5.app/portfolio
+https://example.com/portfolio
 תיק עבודות שמדגים איך הפכנו סקיצות גולמיות ליצירות מופת. האזינו לפרויקטים של מיקס, הקלטה ועיצוב שהשאירו חותם. הסאונד שלכם יכול להיות הבא בתור!
 
 ### אודות
-https://-5bf49128.zappy5.app/about
+https://example.com/about
 סטודיו מח&#39;&#39;צ הוא בית יצירתי רב-תחומי שמשלב הפקה מוזיקלית ועיצוב גרפי בסטייל ישראלי בועט. הכירו את הצוות, החזון והדרייב שמובילים כל פרויקט להצלחה.
 
 ### צור קשר
-https://-5bf49128.zappy5.app/contact
+https://example.com/contact
 מוכנים להפוך את הצליל שלכם למציאות? צרו קשר עם סטודיו מח&#39;&#39;צ לשיחת ייעוץ חינם על מיקס, הקלטה או עיצוב. אנחנו מחכים לשמוע מכם ולבנות משהו ענק!
 
 ### Products
-https://-5bf49128.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - סטודיו מח''צ
 
 ### Product Detail
-https://-5bf49128.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - סטודיו מח''צ
 
 ### Category
-https://-5bf49128.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - סטודיו מח''צ
 
 ### תודה רבה | סטודיו מח''צ
-https://-5bf49128.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית אלינו. ההודעה שלך התקבלה בהצלחה בסטודיו מח''צ - music mixing studio. נחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-5bf49128.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-5bf49128.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-5bf49128.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -86,8 +86,8 @@ Music & Audio Production Studio
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-5bf49128.zappy5.app/sitemap.xml
-- Robots: https://-5bf49128.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-5bf49128.zappy5.app/llms-full.txt
-- Products (JSON): https://-5bf49128.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-5bf49128.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
